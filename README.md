@@ -1,10 +1,10 @@
 # Deep Learning Fall 2025 Final Project
 
 ## Team 8 Members:
-Anagh Mishra
-Petar Acimovic
-Vishesh Anand
-Soham Vakani
+Anagh Mishra  
+Petar Acimovic  
+Vishesh Anand  
+Soham Vakani  
 Ary Sharma
 
 ## Development Notes
