@@ -1,6 +1,0 @@
-{'eval_loss': 0.5140295028686523, 'eval_accuracy': 0.812807881773399, 'eval_f1': 0.7755584675594487, 'eval_precision': 0.7743207462895407, 'eval_recall': 0.7769378260933524, 'eval_runtime': 0.8799, 'eval_samples_per_second': 1614.991, 'eval_steps_per_second': 3.41, 'epoch': 3.0}
-
-Epoch	Training Loss	Validation Loss	Accuracy	F1	Precision	Recall
-1	0.925100	0.624128	0.767380	0.641857	0.659339	0.646022
-2	0.480700	0.593921	0.775401	0.707893	0.704326	0.712600
-3	0.271200	0.615076	0.788770	0.728747	0.723833	0.736855
