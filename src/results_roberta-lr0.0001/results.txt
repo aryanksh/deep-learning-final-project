@@ -1,0 +1,19 @@
+{'eval_loss': 0.5380340218544006, 'eval_accuracy': 0.8219563687543983, 'eval_f1': 0.789895996255893, 'eval_precision': 0.8175603229626246, 'eval_recall': 0.7733171020363601, 'eval_runtime': 1.9854, 'eval_samples_per_second': 715.728, 'eval_steps_per_second': 11.585, 'epoch': 3.0}
+
+Epoch	Training Loss	Validation Loss	Accuracy	F1	Precision	Recall
+1	0.768000	0.807850	0.767380	0.703237	0.738542	0.691739
+2	0.398700	0.581799	0.786096	0.718048	0.768655	0.698462
+3	0.198000	0.538034	0.821956	0.789896	0.817560	0.773317
+
+
+Test classification report:
+              precision    recall  f1-score   support
+
+       anger     0.8586    0.8817    0.8700       558
+         joy     0.8571    0.8045    0.8300       358
+    optimism     0.8068    0.5772    0.6730       123
+     sadness     0.7476    0.8298    0.7866       382
+
+    accuracy                         0.8220      1421
+   macro avg     0.8176    0.7733    0.7899      1421
+weighted avg     0.8239    0.8220    0.8205      1421
